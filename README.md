@@ -13,7 +13,7 @@ Just copy list.h to your include directory and include it in your project. No ex
 Usage
 -----
 
-For a quick start you may want to take a look at the simple [example](https://github.com/ibmicroapple/list/blob/master/example.c)
+For a quick start you may want to take a look at the simple [example](https://github.com/ibmicroapple/list/blob/master/example.c).
 
 Contributing
 ------------
