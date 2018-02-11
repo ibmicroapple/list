@@ -47,7 +47,7 @@ int main()
 
 	for(i = 0; i < NUM_OBJECTS; i++)
 	{
-		list_add_last(myDynamicList, myCoolObjects[0]);
+		list_add_last(myDynamicList, &myCoolObjects[0]);
 	}
 
 	/* Clear the list
