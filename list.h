@@ -1,14 +1,3 @@
-/* File: list.h, C single header source file
- * Description: Thread-safe Doubly-linked list
- * Language: ANSI C
- * License: MIT
- * Code conventions:
- * - pointers start with 'p_'
- * - Types start with uppercase character
- * - Functions and variables are lower case
- * - no camel case
- */
-
 #ifndef LIST_H
 #define LIST_H
 
